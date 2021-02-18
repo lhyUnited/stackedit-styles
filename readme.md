@@ -17,7 +17,7 @@ stackedit提供了导出至html的功能，当我们查看导出后的静态html
 
 ## 介绍
 
-没什么特别的，我只是把stackedit的源码拔了下来，build一下，把打包后的产物传到github，然后就可以通过jsdelivr访问静态资源了。
+没什么特别的，我只是把stackedit的源码扒了下来，build一下，把打包后的产物传到github，然后就可以通过jsdelivr访问静态资源了。
 
 ## 使用
 
